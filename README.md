@@ -15,14 +15,14 @@ money.
 ## Why I Created This
 
 I started using Google Sheets for this project to keep track of my finance —income, spending, debt, etc. 
-I slowly started automating thins with formulas. Then I discovered AppScript and even managed to scrape 
+I slowly started automating things with formulas. Then I discovered AppScript and even managed to scrape 
 webpages for real-time share prices. It was working like a charm!
-But after a while, I realized I created a Frankenstein’s monster of features that could totally be streamlined 
+But after a while, I realized I created a Frankenstein monster of features that could totally be streamlined 
 in a web app. -Also, I knew it'd be a cooler and more fun project than just exporting the Sheet as an .xlsx to 
 improve the scripts' execution rates.
 
 Now, I have a proper database design using MySQL, HTML, CSS, and JS for a fully customized frontend that just 
-makes life easier 🤗, and PHP handling the backend. And let’s not forget my close friend VSCode —definitely a 
+makes life easier 🤗, and PHP handling the backend. And let's not forget my close friend VSCode —definitely a 
 huge upgrade from the clunky AppScript editor.
 
 ## Features
@@ -30,7 +30,7 @@ huge upgrade from the clunky AppScript editor.
 This project features the following:
 - Fiat and crypto movement tracking (including income, spending and transactions).
 - Statement generator (monthly, yearly and of custom range).
-- Investment tracking (only Argentinians CD's for now, aka CEDEAR's)
+- Investment tracking (only Argentinians CDs for now, aka CEDEARs)
 - Share-Data scraping using YahooFinance.
 
 **Remember that you can find a sample of the webapp with fake data [here](https://google.com).**
@@ -41,8 +41,8 @@ For the future, I plan on adding the following:
 
 ## Current State
 
-This is still on it's alpha version. It's not even close to be done and most importantly, 
-it's only for private use for now. You require the use of you're own database and server 
+This is still on its alpha version. It's not even close to finished and most importantly, 
+it's only for private use for now. You require the use of your own database and server 
 (both  of which you can host locally or remotely). I do it locally, since I use this system 
 on PC only.
 
