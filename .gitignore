@@ -1,7 +1,8 @@
 # WORKSPACE
-.vscode/
-.backup/
-res/user-uploaded/
+/.vscode/
+/.backup/
+/res/images/user-uploaded/
+/php/git-pull.php
 
 # LOGS
 *.log
