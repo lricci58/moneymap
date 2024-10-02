@@ -1,0 +1,11 @@
+# WORKSPACE
+.vscode/
+.backup/
+res/user-uploaded/
+
+# LOGS
+*.log
+
+# LOCAL CONFIGS
+/php/connection.php
+.htaccess
